@@ -10,7 +10,7 @@ namespace Task1
             // Creating  object of Operators class
             Operators op = new Operators();
 
-            // Calling  all methods
+            // Calling  all method
             op.Add(20, 10);
             op.Subtract(20, 10);
             op.Multiply(20, 10);
