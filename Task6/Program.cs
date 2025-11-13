@@ -6,7 +6,7 @@ namespace Task6
     {
         static void Main(string[] args)
         {
-            // try, catch, finally
+            
             try
             {
                 Console.Write("Enter a number: ");
