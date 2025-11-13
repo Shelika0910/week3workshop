@@ -17,7 +17,7 @@
 
             Console.WriteLine("Sum from 1 to " + n + " = " + sum);
 
-            //while loop
+            
             int num = 1;
             Console.WriteLine("\nNumbers from 1 to 20 (skip multiples of 4, stop at 15):");
             while (num <= 20)
